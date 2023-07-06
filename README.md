@@ -25,20 +25,23 @@
 
 ### Frontend  
 <div align="center">  
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+    </a>  
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
     </a>  
     <a href="https://www.javascript.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
     </a>  
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+    <a href="https://vuejs.org/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
+    </a>  
+    <a href="https://concretecms.org/" target="_blank">
+        <img style="margin: 10px" src="https://training.concretecms.com/application/files/5316/2085/1150/concrete_logo.png" alt="Concrete CMS" height="50" />
     </a>  
     <a href="https://wordpress.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
-    </a>  
-    <a href="https://vuejs.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
     </a>  
     <a href="https://sass-lang.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
@@ -58,9 +61,6 @@
 <div align="center">  
     <a href="https://www.php.net/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-    </a>  
-    <a href="https://symfony.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" />
     </a>  
     <a href="https://expressjs.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
@@ -138,6 +138,9 @@
     </a>
     <a href="https://stackoverflow.com/users/9156223/nicolò-rebaioli" target="_blank">
         <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+    </a> 
+    <a href="https://datapizza.tech/folio/nicolorebaioli664" target="_blank">
+        <img src="https://img.shields.io/badge/datapizza-%23E02424.svg?&style=for-the-badge&logoColor=white&alt=datapizza&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgNTIwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzYyIDEzM2MwIDYtMyA3LTYgOWwtMjkgMTFxLTgzIDM0LTEzOSAxMDVjLTkgMTEtOSAxMS0yMCAybC0yMC0xNGMtNy02LTctOC0yLTE1YTM5MSAzOTEgMCAwIDEgNjctNjggNDA4IDQwOCAwIDAgMSA3Ny00OGw2LTNjMy0yIDQtNSAzLThsLTEyLTM1Yy0yLTUtNi02LTExLTRsLTIyIDExUTEzNSAxMzggNzAgMjU0YTQzIDQzIDAgMCAwLTMgNGMtMiA1LTEgOSA0IDExYTU1IDU1IDAgMCAwIDUgM2wzMjEgMTUwYTMxIDMxIDAgMCAwIDcgMmM2IDIgMTAtMyA5LTlhNDggNDggMCAwIDAtMi02bC03MS0xOTMtMS00Yy0yLTYtMS04IDQtMTAgMTEtNSAyMS05IDMyLTEyIDQtMiA3LTEgOSA0YTU0IDU0IDAgMCAxIDIgNWwxMTIgMzA3YTM4IDM4IDAgMCAxIDIgNyA2IDYgMCAwIDEtOCA3IDQwIDQwIDAgMCAxLTctM0w4OSAzMzJsLTc5LTM3LTYtM2MtMy0xLTUtNC00LThsMi00UTkyIDc2IDMwMiAybDUtMmMzLTEgNiAxIDggNGwyIDYgNDMgMTE4IDIgNVoiIGRhdGEtbmFtZT0iTGl2ZWxsbyAyIi8+PC9zdmc+" style="margin-bottom: 5px;" />
     </a> 
 </div>  
   
