@@ -12,7 +12,7 @@
 - 🌱 Always learning something new  
   
 
-- 👨‍💻 Programmer since 2019!  
+- 👨‍💻 Programmer since 2017!  
   
 
 <br/>  
