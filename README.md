@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="http://rebaioli.altervista.org/assets/logo-banner.png" align="center"     style="width: 100%" />
+    <img src="https://www.nicolorebaioli.dev/assets/logo-banner.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -7,11 +7,7 @@
   
 
 - 🍝 Proudly Italian  
-  
-
 - 🌱 Always learning something new  
-  
-
 - 👨‍💻 Programmer since 2017!  
   
 
