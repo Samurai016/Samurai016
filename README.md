@@ -155,10 +155,10 @@
     <table>
         <tr>
             <td width="50%">
-                <img src="https://github-stats-extended.vercel.app/api?username=Samurai016&show_icons=true&include_all_commits=true&theme=light_github" align="center" />
+                <img src="https://github-stats-extended.vercel.app/api?username=Samurai016&show_icons=true&include_all_commits=true&theme=light_github&hide_border=true" align="center" />
             </td>
             <td width="50%">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samurai016&hide_border=true&layout=compact" align="center" />  
+                <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Samurai016&langs_count=6&theme=light_github&hide_border=true" align="center" />  
             </td>
         </tr>
     </table>
