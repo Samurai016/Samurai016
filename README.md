@@ -149,10 +149,8 @@
 
 <br/>  
 
-
-## Github Stats
-
+## GitHub Stats
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Samurai016&show_icons=true&include_all_commits=true&theme=light_github&hide_border=true" width="400" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Samurai016&langs_count=6&theme=light_github&hide_border=true" width="400" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Samurai016&show_icons=true&include_all_commits=true&theme=light_github&hide_border=true" width="400" align="center" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Samurai016&layout=compact&langs_count=4&theme=light_github&hide_border=true" width="400" align="center" />
 </div>
