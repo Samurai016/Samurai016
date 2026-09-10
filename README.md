@@ -150,16 +150,9 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats
+
 <div align="center">
-    <table>
-        <tr>
-            <td width="50%">
-                <img src="https://github-stats-extended.vercel.app/api?username=Samurai016&show_icons=true&include_all_commits=true&theme=light_github&hide_border=true" align="center" />
-            </td>
-            <td width="50%">
-                <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Samurai016&langs_count=6&theme=light_github&hide_border=true" align="center" />  
-            </td>
-        </tr>
-    </table>
+  <img src="https://github-stats-extended.vercel.app/api?username=Samurai016&show_icons=true&include_all_commits=true&theme=light_github&hide_border=true" width="400" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Samurai016&langs_count=6&theme=light_github&hide_border=true" width="400" />
 </div>
